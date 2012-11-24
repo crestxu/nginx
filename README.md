@@ -17,6 +17,7 @@ nginx version "nginx-1.2.5 stable"
   * removed http push module
 
  -- kivlara   Sat, 25 Nov 2012 13:00:00 +0200
+
 8. cd nginx-1.x.x/debian/modules/
 9. git clone https://github.com/wandenberg/nginx-push-stream-module.git
 10. edit nginx-1.x.x/debian/rules
