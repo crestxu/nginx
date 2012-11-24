@@ -11,7 +11,7 @@ nginx version "nginx-1.2.5 stable"
 5. cp -r nginx-1.y.y/debian/ nginx-1.x.x
 6. rm nginx-1.x.x/debian/patches/*
 7. nano (or alternative) nginx-1.x.x/debian/changelog, prepend: 
-* nginx (1.x.x-1) unstable; urgency=low
+\* nginx (1.x.x-1) unstable; urgency=low
 
   * added stream push module
   * removed http push module
